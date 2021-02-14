@@ -17,8 +17,7 @@ a.headerlink:link,a.headerlink:visited {
 
 <center>
 
-<a class="headerlink" href="https://serve.aidanc.dev"><h1> AIDAN COMI</h1></a>
-<h2> Are you home or away? </h2>
+<h1> Are you home or away? </h1>
 
 
 </body>
