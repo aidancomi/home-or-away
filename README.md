@@ -6,7 +6,7 @@ I wanted to use PHP to check my IP against my home IP, this is useful when VPN t
 
 ## Set Up
 
-To setup this repository for yourself, replace `DDNS-Domain.example` with your DDNS domain (ex. aidan.asuscomm.com), then host to your VPS of your choice.
+To setup this repository for yourself, replace `DDNS-Domain.example` with your DDNS domain (ex. aidan.asuscomm.com), then host to the VPS of your choice.
 
 ## Notes
 This is my very first PHP project, so it's not perfect! Please let me know if you have any other reccomendations for improvements!
